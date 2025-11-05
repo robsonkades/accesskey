@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.robsonkades</groupId>
-    <artifactId>access-key</artifactId>
+    <artifactId>accesskey</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>access-key</name>
+    <name>accesskey</name>
     <description>Biblioteca Java de alto desempenho para geração, formatação e validação da Chave de acesso de
         documentos fiscais eletrônicos (NFe, NFCe, CTe e MDFe), conforme a NT 2025.001.
     </description>
